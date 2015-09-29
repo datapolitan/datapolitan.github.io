@@ -86,3 +86,13 @@ body {
     font-size: 1.25em;
     float: right;
 }
+
+div.image {
+    position:relative;
+    float:left;
+    width:160px;
+}
+.img-text {
+    position:relative;
+    float:right;
+}
