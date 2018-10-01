@@ -31,3 +31,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 All reports will be handled in the strictest confidence.
 
 Datapolitan leadership will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the class, meeting, or other Datapolitan-sponsored event.
+
+This Code of Conduct is based on [the XOXO Festival Code of Conduct](http://blog.xoxofest.com/conduct)
+
+Licensed under a [Creative Commons Attribution 3.0 Unported License.](https://creativecommons.org/licenses/by/3.0/us/)
